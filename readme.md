@@ -3,6 +3,7 @@ MAPDOX — Real Geophoto Intelligence System
 Bilingual local OSINT tool designed to parse image metadata, extract raw GPS telemetry via OpenStreetMap geocoding, and estimate environmental conditions natively.
 
 Tool Interface:
+
 https://i.postimg.cc/T25QLNbH/Novo-projeto-545-70CB078.png
 
 How to Use:
